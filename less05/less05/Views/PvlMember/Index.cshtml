@@ -1,0 +1,32 @@
+﻿@model IEnumerable<less05.Models.DataModels.PvlMemBer>
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Members List</h1>
+
+<div>
+	<table class="table table-bordered table-hover">
+		<thead>
+			<tr>
+				<th>Member ID</th>
+				<th>Username</th>
+				<th>Password</th>
+				<th>Fullname</th>
+				<th>Email</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var member in Model)
+			{
+				<tr>
+					<td>@member.PvlMemberId</td>
+					<td>@member.PvlFullName</td>
+					<td>@member.PvlPassword</td>
+					<td>@member.PvlUserName</td>
+					<td>@member.PvlEmail</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

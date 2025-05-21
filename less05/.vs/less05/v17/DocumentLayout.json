@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\less05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\shared\\_pvlnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\shared\\_pvlnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\pvlhome\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\pvlhome\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\controllers\\pvlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\controllers\\pvlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\controllers\\pvlmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\controllers\\pvlmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\pvlmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\pvlmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\shared\\_pvllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\shared\\_pvllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\views\\pvlhome\\pvlabot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\views\\pvlhome\\pvlabot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\models\\datamodels\\pvlmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\models\\datamodels\\pvlmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|d:\\asp.net\\less05\\less05\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95866B-9B5D-4131-80FC-7F5AC9AB96BC}|less05\\less05.csproj|solutionrelative:less05\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "less05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T03:58:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\PvlMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\PvlMember\\Index.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\PvlMember\\Index.cshtml",
+              "RelativeToolTip": "less05\\Views\\PvlMember\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T03:50:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PvlMemberController.cs",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Controllers\\PvlMemberController.cs",
+              "RelativeDocumentMoniker": "less05\\Controllers\\PvlMemberController.cs",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Controllers\\PvlMemberController.cs",
+              "RelativeToolTip": "less05\\Controllers\\PvlMemberController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:15:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvlHomeController.cs",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Controllers\\PvlHomeController.cs",
+              "RelativeDocumentMoniker": "less05\\Controllers\\PvlHomeController.cs",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Controllers\\PvlHomeController.cs",
+              "RelativeToolTip": "less05\\Controllers\\PvlHomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:24:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PvlNavBar.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\Shared\\_PvlNavBar.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\Shared\\_PvlNavBar.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\Shared\\_PvlNavBar.cshtml",
+              "RelativeToolTip": "less05\\Views\\Shared\\_PvlNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:10:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_PvlLayout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\Shared\\_PvlLayout.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\Shared\\_PvlLayout.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\Shared\\_PvlLayout.cshtml",
+              "RelativeToolTip": "less05\\Views\\Shared\\_PvlLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:12:29.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvlIndex.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\PvlHome\\PvlIndex.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\PvlHome\\PvlIndex.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\PvlHome\\PvlIndex.cshtml",
+              "RelativeToolTip": "less05\\Views\\PvlHome\\PvlIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:27:49.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PvlAbot.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Views\\PvlHome\\PvlAbot.cshtml",
+              "RelativeDocumentMoniker": "less05\\Views\\PvlHome\\PvlAbot.cshtml",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Views\\PvlHome\\PvlAbot.cshtml",
+              "RelativeToolTip": "less05\\Views\\PvlHome\\PvlAbot.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:37:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Program.cs",
+              "RelativeDocumentMoniker": "less05\\Program.cs",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Program.cs",
+              "RelativeToolTip": "less05\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:29:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PvlMember.cs",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Models\\DataModels\\PvlMember.cs",
+              "RelativeDocumentMoniker": "less05\\Models\\DataModels\\PvlMember.cs",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Models\\DataModels\\PvlMember.cs",
+              "RelativeToolTip": "less05\\Models\\DataModels\\PvlMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:21:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\asp.net\\less05\\less05\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "less05\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\asp.net\\less05\\less05\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "less05\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:19:30.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
