@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\asp.net\\less05\\less05\\less05.csproj": {}
+    "D:\\asp.net\\Net\\less05\\less05\\less05.csproj": {}
   },
   "projects": {
-    "D:\\asp.net\\less05\\less05\\less05.csproj": {
+    "D:\\asp.net\\Net\\less05\\less05\\less05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp.net\\less05\\less05\\less05.csproj",
+        "projectUniqueName": "D:\\asp.net\\Net\\less05\\less05\\less05.csproj",
         "projectName": "less05",
-        "projectPath": "D:\\asp.net\\less05\\less05\\less05.csproj",
+        "projectPath": "D:\\asp.net\\Net\\less05\\less05\\less05.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\asp.net\\less05\\less05\\obj\\",
+        "outputPath": "D:\\asp.net\\Net\\less05\\less05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

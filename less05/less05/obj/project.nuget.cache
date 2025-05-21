@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UNcC9XJY/FY=",
+  "dgSpecHash": "Fy2hudMcvoE=",
   "success": true,
-  "projectFilePath": "D:\\asp.net\\less05\\less05\\less05.csproj",
+  "projectFilePath": "D:\\asp.net\\Net\\less05\\less05\\less05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
