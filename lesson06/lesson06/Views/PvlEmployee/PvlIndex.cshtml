@@ -1,0 +1,41 @@
+﻿@model List<Pvllesson06.Models.PvlEmployee>
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>Danh sách nhân viên</h2>
+
+<a class="btn btn-success mb-3" asp-action="PvlCreate">Thêm mới nhân viên</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Pvl in Model)
+        {
+            <tr>
+                <td>@Pvl.PvlId</td>
+                <td>@Pvl.PvlName</td>
+                <td>@Pvl.PvlBirthDay.ToShortDateString()</td>
+                <td>@Pvl.PvlEmail</td>
+                <td>@Pvl.PvlPhone</td>
+                <td>@Pvl.PvlSalary</td>
+                <td>@(Pvl.PvlStatus ? "Đang làm" : "Nghỉ")</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="PvlEdit" asp-route-id="@Pvl.PvlId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" asp-action="PvlDelete" asp-route-id="@Pvl.PvlId">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

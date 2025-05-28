@@ -1,0 +1,37 @@
+﻿@model Pvllesson06.Models.PvlEmployee
+@{
+    ViewData["Title"] = "Thêm mới nhân viên";
+}
+
+<h2>Thêm mới nhân viên</h2>
+
+<form asp-action="PvlCreateSubmit" method="post">
+    <div class="mb-3">
+        <label class="form-label">Họ tên</label>
+        <input asp-for="PvlName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Ngày sinh</label>
+        <input asp-for="PvlBirthDay" type="date" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <input asp-for="PvlEmail" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Điện thoại</label>
+        <input asp-for="PvlPhone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Lương</label>
+        <input asp-for="PvlSalary" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Trạng thái</label>
+        <select asp-for="PvlStatus" class="form-select">
+            <option value="true">Đang làm</option>
+            <option value="false">Nghỉ</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

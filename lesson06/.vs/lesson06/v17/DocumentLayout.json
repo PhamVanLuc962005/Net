@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\lesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\shared\\_pvllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\shared\\_pvllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlhome\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlhome\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlhome\\pvlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlhome\\pvlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlemployee\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlemployee\\pvlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlemployee\\pvledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlemployee\\pvledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\pvlemployee\\pvlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\pvlemployee\\pvlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\models\\pvlemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\models\\pvlemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\controllers\\pvlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\controllers\\pvlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\controllers\\pvlemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\controllers\\pvlemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\shared\\_pvlnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\shared\\_pvlnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|d:\\asp.net\\lesson06\\lesson06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A87B4A-C40E-4CC6-A1F1-B970797A2EF4}|lesson06\\lesson06.csproj|solutionrelative:lesson06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlHome\\Privacy.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\Privacy.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:49:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PvlEmployee.cs",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Models\\PvlEmployee.cs",
+              "RelativeDocumentMoniker": "lesson06\\Models\\PvlEmployee.cs",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Models\\PvlEmployee.cs",
+              "RelativeToolTip": "lesson06\\Models\\PvlEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:24:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvlAbout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\PvlAbout.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlHome\\PvlAbout.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\PvlAbout.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlHome\\PvlAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:08:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PvlCreate.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlCreate.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlEmployee\\PvlCreate.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlCreate.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlEmployee\\PvlCreate.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:02:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PvlIndex.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlIndex.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlEmployee\\PvlIndex.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlIndex.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlEmployee\\PvlIndex.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:04:44.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PvlEdit.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlEdit.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlEmployee\\PvlEdit.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlEmployee\\PvlEdit.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlEmployee\\PvlEdit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:03:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvlIndex.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\PvlIndex.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\PvlHome\\PvlIndex.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\PvlHome\\PvlIndex.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\PvlHome\\PvlIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:08:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PvlLayout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\Shared\\_PvlLayout.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\Shared\\_PvlLayout.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\Shared\\_PvlLayout.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\Shared\\_PvlLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:41:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PvlEmployeeController.cs",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Controllers\\PvlEmployeeController.cs",
+              "RelativeDocumentMoniker": "lesson06\\Controllers\\PvlEmployeeController.cs",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Controllers\\PvlEmployeeController.cs",
+              "RelativeToolTip": "lesson06\\Controllers\\PvlEmployeeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wAoAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:28:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PvlHomeController.cs",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Controllers\\PvlHomeController.cs",
+              "RelativeDocumentMoniker": "lesson06\\Controllers\\PvlHomeController.cs",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Controllers\\PvlHomeController.cs",
+              "RelativeToolTip": "lesson06\\Controllers\\PvlHomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:47:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_PvlNavBar.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\Shared\\_PvlNavBar.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\Shared\\_PvlNavBar.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\Shared\\_PvlNavBar.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\Shared\\_PvlNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:43:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\lesson06\\lesson06\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "lesson06\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp.net\\lesson06\\lesson06\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "lesson06\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:41:11.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
