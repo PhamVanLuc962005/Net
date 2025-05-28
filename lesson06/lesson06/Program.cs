@@ -22,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=PvlHome}/{action=PvlIndex}/{PvlId?}");
+    pattern: "{controller=PvlHome}/{action=Index}/{PvlId?}");
 
 app.Run();

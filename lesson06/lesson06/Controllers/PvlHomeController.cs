@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
 using lesson06.Models;
-using Microsoft.AspNetCore.Pvl;
-using Pvllesson06.Models;
+using Microsoft.AspNetCore.Mvc;
+using lesson06.Models;
 
-namespace Pvllesson06.Controllers
+namespace lesson06.Controllers
 {
     public class PvlHomeController : Controller
     {
@@ -32,10 +32,10 @@ namespace Pvllesson06.Controllers
 
         public IActionResult PvlAbout()
         {
-            ViewBag.StudentName = "Phạm Văn Lực ";
+            ViewBag.StudentName = "Phạm Văn Lực";
             ViewBag.StudentID = "2310900059";
             ViewBag.Class = "CNTT3";
-            ViewBag.Quote = "“Học để biết, học để làm, học để kiếm tiền .”";
+            ViewBag.Quote = "“Học để biết, học để làm, học để kiếm tiền.”";
             return View();
         }
     }

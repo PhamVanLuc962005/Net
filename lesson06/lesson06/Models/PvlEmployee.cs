@@ -7,9 +7,7 @@
         public DateTime PvlBirthDay { get; set; }
         public string PvlEmail { get; set; }
         public string PvlPhone { get; set; }
-        public double PvlSalary { get; set; }
+        public decimal PvlSalary { get; set; }
         public bool PvlStatus { get; set; }
-
     }
-
 }

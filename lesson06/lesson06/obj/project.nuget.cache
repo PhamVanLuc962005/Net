@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zB/AfPLZPS0=",
+  "dgSpecHash": "7+nO1UKkGRY=",
   "success": true,
-  "projectFilePath": "D:\\asp.net\\lesson06\\lesson06\\lesson06.csproj",
+  "projectFilePath": "D:\\asp.net\\Net\\lesson06\\lesson06\\lesson06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

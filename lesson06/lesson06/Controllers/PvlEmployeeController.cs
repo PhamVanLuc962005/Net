@@ -1,8 +1,8 @@
 ﻿using lesson06.Models;
 using Microsoft.AspNetCore.Mvc;
-using Pvllesson06.Models;
+using lesson06.Models;
 
-namespace Pvllesson06.Controllers
+namespace lesson06.Controllers
 {
     public class PvlEmployeeController : Controller
     {
